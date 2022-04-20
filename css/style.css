@@ -44,6 +44,12 @@ body {
     color: #f4f2f2;
 }
 
+.logotype {
+    height: 40px;  
+    position: relative;
+    top: 0.8rem;
+}
+
 .board {
     display: grid;
     width: 100%;
@@ -212,7 +218,7 @@ footer p {
     font-size: 1.2rem;
 }
 
-
+/* Mostrar mensagem */
 .show-winning-message {
     display: flex;
 }
